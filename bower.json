@@ -10,7 +10,7 @@
     "examples"
   ],
   "dependencies": {
-    "v3rron/switchery": "~0.8"
+    "switchery": "v3rron/switchery"
   },
   "devDependencies": {
     "angular": "~1.2.26"
